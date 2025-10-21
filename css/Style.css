@@ -1,0 +1,27 @@
+.custom-bg {
+    background-color: #2b2a2a; /* สีพื้นหลังเทาอ่อน */
+    width: 100%;
+    padding: 40px 0; /* padding บน/ล่าง */
+}
+.white-text {
+  color: white;
+  font-family: 'Anuphan', sans-serif;
+  font-weight: 600;   /* SemiBold */
+}
+.bg-yellow {
+  background-color: #ffb13b; /* สีเหลืองสด */
+}
+.red-text {
+  font-family: 'Anuphan', sans-serif;
+  font-weight: 600;   /* SemiBold */
+  color: red;         /* สีแดง */
+}
+.yellow-box {
+  border: 5px solid #ffb13b;
+  border-radius: 10px;
+  padding: 16px; /* เพิ่มช่องว่างข้างในนิดหน่อย */
+}
+.font {
+  font-family: 'Anuphan', sans-serif;
+  font-weight: 600;   /* SemiBold */
+}
